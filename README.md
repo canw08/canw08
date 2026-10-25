@@ -22,7 +22,7 @@ From creating custom Minecraft server plugins to developing web applications, I 
 
 **Web Development:** Django
 
-**Minecraft Development:** Paper
+**Minecraft Development:** Paper Spigot
 
 ### 📌 Featured Projects
 
