@@ -18,39 +18,24 @@ From creating custom Minecraft server plugins to developing web applications, I 
 
 *Add the languages, frameworks, and tools you actually use.*
 
-**Languages:** Your programming languages
+**Languages:** Java, Python, HTML, CSS, Javascript
 
-**Web Development:** Your frontend and backend frameworks
+**Web Development:** Django
 
-**Minecraft Development:** Your server platform and development tools
-
-**Data Science:** Your data analysis and machine learning tools
+**Minecraft Development:** Paper
 
 ### 📌 Featured Projects
-
-**🎮 Minecraft Server Plugin**
-
-A custom plugin designed to improve Minecraft server functionality and gameplay.
-
-[View Project](https://github.com/canw08/REPLACE_WITH_PLUGIN_REPO)
 
 **🌐 Web Application**
 
 A web development project focused on creating a useful and intuitive user experience.
 
-[View Project](https://github.com/canw08/REPLACE_WITH_WEB_REPO)
-
-**📊 Data Science Project**
-
-An exploration of data through analysis, visualization, or machine learning.
-
-[View Project](https://github.com/canw08/REPLACE_WITH_DATA_REPO)
+[View Project](https://github.com/canw08/adventurer)
 
 ### 📫 Let's Connect
 
 - **GitHub:** [@canw08](https://github.com/canw08)
-- **LinkedIn:** Add your LinkedIn profile
-- **Email:** Add your contact email
+- **Email:** wangcannb2008@gmail.com
 
 ---
 
